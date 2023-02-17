@@ -1,4 +1,4 @@
-## Pan-Arctic Behavioural and Life-history Simulator [PASCAL | v1.00]
+## Pan-Arctic Behavioural and Life-history Simulator, PASCAL (v1.00)
 #### Generalized high-latitude copepod simulation model (baseline)
 This repository contains the first version of PASCAL, initiated in 2016 & completed in 2018. PASCAL v.1.00 contains a general (i.e., non-species-specific), high-resolution behavioural and life-history simulation model for a generalized copepod resembling a synthetic _C. finmarchicus_ - _C. glacialis_ hybrid.
 
